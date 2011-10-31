@@ -1,4 +1,5 @@
-Basic image transformation plugin for jquery.  Currently works in the latest FF and Chrome browsers using HTML5 canvas.  Future IE implementation falls back to DXImageTransforms.
+Basic image transformation plugin for jquery.  Currently works in the latest FF and Chrome browsers using HTML5 canvas.  
+Future IE implementation falls back to DXImageTransforms.
 
 To use simply bind against any image element:
 
